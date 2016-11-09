@@ -1,0 +1,96 @@
+/* Here goes your CSS */
+
+/* Here goes your CSS */
+h1 {
+  color: #086788;
+  font-size: 40px;
+}
+h1, h2, h3 {
+  font-family: 'Montserrat', sans-serif;
+}
+h2 {
+  color: #009FE3;
+  font-size: 18px;
+  font-weight: 300;
+
+}
+
+#logo {
+  width: 250px;
+  border-radius: 250px;
+}
+#filmlogo {
+  width: 250px;
+}
+
+body {
+    /*background: #EBEBEB;*/
+    background-image: url("https://images.unsplash.com/photo-1473654729523-203e25dfda10?dpr=2&auto=format&fit=crop&w=1500&h=1000&q=80&cs=tinysrgb&crop=");
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 300;
+    color: #7d7d7d;
+    font-size: 17px;
+    line-height: 1.6em;
+}
+
+a {
+    color: #ccc;
+    text-decoration: none;
+}
+
+table {
+    display: table;
+    border-collapse: separate;
+    border-spacing: 2px;
+    border-color: grey;
+}
+
+.container {
+  width: 700px;
+  margin: 0 auto;
+}
+
+
+.card {
+  background: white;
+  padding: 20px;
+  margin-bottom: 20px;
+  border-radius: 4px;
+  box-shadow: 0px 1px 2px 0px rgba(0, 0, 0, 0.2);
+}
+.text-center {
+  text-align: center;
+}
+
+
+#movies {
+    font-weight: 300;
+    font-size: 15px;
+    line-height: 1.6em;
+}
+
+#movies td {
+    padding: 10px;
+}
+
+.btn-blue {
+    background-color: #086788;
+    color: white;
+    font-weight: 500;
+    padding: 10px;
+    border-radius: 4px;
+}
+.fa {
+    font-size: 50px;
+    color:#086788;
+  }
+
+
+.list-inline > li {
+  display: inline-block;
+  padding: 0px 30px;
+}
+
+ul {
+  padding-left: 0;
+}
